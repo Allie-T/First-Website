@@ -1,0 +1,70 @@
+body {
+	font-family:Comic Sans MS;
+	background-color: white;
+	background-image: url(snw.jpg);
+	background-repeat: none;
+	background-size: 800px;
+
+
+
+	
+}
+
+
+h1 {
+	color: white;
+	text-align: center;
+	font-size: 25pt;
+
+}
+
+p {
+	line-height: 1.5em;
+	text-indent: 50px;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	margin-left: 20px;
+	margin-right: 20px;
+	
+}
+
+h3 {
+	color: white;
+	text-align: left;
+	font-size: 15pt;
+	text-indent: 20px;
+}
+
+div {
+	width: 830px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #D88721;
+	padding: 40px;
+	border: 5px solid black;
+	box-shadow: 5px 5px 40px black;
+}
+
+a:link {
+	color: blue;
+	
+}
+
+a:visited {
+	color: purple;
+}
+
+a:hover{
+	color: white;
+}
+
+a:active{
+	color: yellow;
+}
+
+
+img {
+	border: 3px solid black;
+
+	
+}
